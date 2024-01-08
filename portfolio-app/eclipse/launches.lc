@@ -84,4 +84,5 @@ junit-plugin configuration PortfolioPerformance_UI_Tests:TestBase {
         container '/name.abuchen.portfolio.ui.tests';
         runner junit4;
     }
+
 }
